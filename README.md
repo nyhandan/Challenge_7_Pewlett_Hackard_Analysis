@@ -9,4 +9,11 @@ In Devlierable 1, we have created a Retirement Titles table that holds all the t
 In Deliverable 2, we referenced the ERD I created in the ETL module to create a mentorship-eligibility table that shows the number of employees eligible for the mentorship program.
 
 ## Results
-  -The retirment titles file shows all the employees that are about to retire. 
+   - The "retirment titles" file shows all the employees that are about to retire. There is a data point for each job title held by each employee.                            
+     ![Retirement_titles](https://github.com/nyhandan/Challenge_7_Pewlett_Hackard_Analysis/blob/main/Retirement_image.png)
+  
+   - The "unique titles" file shows all the employees that are about to retire, but it has a data point for each employee (it combines the job titles of each      employee). 
+
+     ![Unique_titles](https://github.com/nyhandan/Challenge_7_Pewlett_Hackard_Analysis/blob/main/Unique_image.png)
+  
+  - 
