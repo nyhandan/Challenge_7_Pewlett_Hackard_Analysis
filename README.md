@@ -27,4 +27,4 @@ In Deliverable 2, we referenced the ERD I created in the ETL module to create a 
  ## Summary
   - As the "silver tsunami" takes effect, [90,398](https://github.com/nyhandan/Challenge_7_Pewlett_Hackard_Analysis/blob/main/Retiring_titles.csv) roles will need   to be filled
 
-   - No, there is a huge shortage of eligible mentors. There are only 1549 people who are eligible (found using this code when opening up the csv file in Excel:  =COUNT(A2:A1550)).
+   - No, there is a huge shortage of eligible mentors. There are only 1549 people who are eligible (found using this code when opening up the csv file in Excel:  =COUNT(A2:A1550).
